@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://bridgetprichard-droid.github.io/sitemap.xml
